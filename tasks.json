@@ -1,0 +1,10 @@
+[
+    {
+        "description": "Какой язык мы изучаем?",
+        "answer": "Python"
+    },
+    {
+        "description": "От какого класса наследуется все классы в Python?",
+        "answer": "object"
+    }
+]
